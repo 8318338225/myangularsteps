@@ -16,4 +16,3 @@ phases:
   build:
     commands:
       - ng test  --no-watch --no-progress  --browsers=ChromeHeadlessCI
-    
